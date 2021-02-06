@@ -7,6 +7,10 @@
   "directories": {
     "lib": "lib"
   },
+  "files": [
+    "lib",
+    "bin"
+  ],
   "dependencies": {
     "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.13",
